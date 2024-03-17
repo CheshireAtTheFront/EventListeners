@@ -6,27 +6,27 @@ main {
 }
 
 .controls {
-    margin-bottom: 40px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+	margin-bottom: 40px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 span {
-    height: 20px;
-    line-height: 20px;
+	height: 20px;
+	line-height: 20px;
 }
 
 button {
-    padding: 15px 40px;
-    text-transform: uppercase;
-    cursor: pointer;
-    background-color: orange;
+	padding: 15px 40px;
+	text-transform: uppercase;
+	cursor: pointer;
+	background-color: orange;
 }
 
 input[type=range] {
-    width: 200px;
-    cursor: pointer;
+	width: 200px;
+	cursor: pointer;
 }
 
 input[type=text] {
